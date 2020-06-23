@@ -6,6 +6,6 @@ package org.example3;
  */
 public class Sample3 {
     public void sayHello() {
-        System.out.println("Hello from example3 Sample3.");
+        System.out.println("Hello from example3 Sample3. New changes injected after sutree merge.");
     }
 }
